@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### mand2🦌 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmand2&count_bg=%2362BEAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### mand2🦌 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmand2&count_bg=%2362BEAE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=atpletrea)](https://solved.ac/atpletrea)
 
 🌱 Junior(3+) Backend Developer   
 ✨ Kotlin, Java, Javascript, Python   
